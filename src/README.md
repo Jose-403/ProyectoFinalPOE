@@ -17,7 +17,7 @@ Pasos de ejecución
 6. Iniciar la simulación de carreras desde el menú. ![Simulación](screenshots/simulacion.jpeg)
 7. Visualizar podio, estadísticas y exportar resultados.
 
----
+----
 
 1. Tecnologías utilizadas
 
