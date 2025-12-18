@@ -12,9 +12,9 @@ Pasos de ejecución
 1. Clonar o descargar el repositorio.
 2. Abrir el proyecto en IntelliJ IDEA (o cualquier IDE compatible con Java).
 3. Asegurarse de tener Java JDK 8 o superior.
-4. Ejecutar la clase MenuPrincipal. ![Menú principal](screenshots/menu.png)
-5. Registrar participantes y carreras. ![Registro](screenshots/registro.png)
-6. Iniciar la simulación de carreras desde el menú. ![Simulación](screenshots/simulacion.png)
+4. Ejecutar la clase MenuPrincipal. ![Menú principal](screenshots/menu.jpeg)
+5. Registrar participantes y carreras. ![Registro](screenshots/registro.jpeg)
+6. Iniciar la simulación de carreras desde el menú. ![Simulación](screenshots/simulacion.jpeg)
 7. Visualizar podio, estadísticas y exportar resultados.
 
 ---
