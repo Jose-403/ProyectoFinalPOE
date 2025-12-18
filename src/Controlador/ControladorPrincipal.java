@@ -471,7 +471,7 @@ public class ControladorPrincipal {
                         masRapido.getNombre() +
                         " | Pato #" + masRapido.getNumPato());
             }
-
+            //
             pw.println("===============================\n");
 
             JOptionPane.showMessageDialog(
